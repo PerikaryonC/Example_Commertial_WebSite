@@ -5,7 +5,7 @@ A commercial web platform, precision manufacturers of high-throughput Sequencers
 
 ---
 
-##Highlights
+### Highlights
 
 1. **Sole Official Contact Channel**:
    - **Telegram Bot**: [@Slava_Dev_bot](https://t.me/Slava_Dev_bot)
