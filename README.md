@@ -1,4 +1,4 @@
-# Richter Biosystems AG (WebSite-example)
+# Richter Biosystems AG (A WebSite-example)
 ### Direct-From-Factory European Genomics Instrumentation
 
 A commercial web platform, precision manufacturers of high-throughput Sequencers, automated gene synthesizers, droplet digital PCR, and single-cell robotics platforms.
@@ -17,7 +17,10 @@ A commercial web platform, precision manufacturers of high-throughput Sequencers
 
 ---
 
-## Running Locally
+## Test WebSite Locally on your computer!
+1) After copying GitHub repository on your PC 
+2) Provide terminal to downloaded folder 
+3) Execute following commands
 
 ```bash
 # Install dependencies
