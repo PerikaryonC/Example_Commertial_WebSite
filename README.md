@@ -1,4 +1,4 @@
-# Richter Biosystems AG
+# Richter Biosystems AG (WebSite-example)
 ### Direct-From-Factory European Genomics Instrumentation
 
 A commercial web platform, precision manufacturers of high-throughput Sequencers, automated gene synthesizers, droplet digital PCR, and single-cell robotics platforms.
